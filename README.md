@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelShort
-- 👀 I’m interested in python programming 
-- 🌱 I’m currently learning how to write python
+- 👀 I’m interested in Front-End-Development 
+- 🌱 I’m currently learning how to write Javascript
 - 💞️ I’m looking to collaborate on new ideas and projects to expand my knowlege.
 - 📫 How to reach me is by message or my email samuel.short@hotmail.com
